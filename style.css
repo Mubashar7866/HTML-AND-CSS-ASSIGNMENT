@@ -1,0 +1,265 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+
+}
+body{
+    font-family: serif;
+    background-color: white;
+
+}
+nav{
+    background-color: white;
+    height: 80px;
+    width: 100%;
+}
+.logo{
+    font-size: 40px;
+    padding: 45px;
+    color: black;
+    letter-spacing: 4px;
+    word-spacing: 6px;
+    line-height: 80px;
+    font-weight: bold;
+}
+nav ul{
+    float: right;
+    margin-right: 30px;
+
+}
+nav ul li{
+    font-size: 20px;
+    padding: 25px;
+    display: inline-block;
+    text-transform: uppercase;
+}
+nav ul li a {
+    font-weight: bold;
+    color: black;
+}
+a:hover, a:visited{
+ background-color: yellow;
+ transition: .5s;
+ border-radius: 4px;
+}
+
+.paragraph{
+    text-align: center;
+    font-size: 54px;
+    margin: 50px 291px 0px 291px;
+    height: 162px;
+    width: 851px;
+    font-weight: bold;
+}
+.small{
+    margin: 50px 291px 0px 291px;
+    text-transform: capitalize;
+    text-align: center;
+    height: 162px;
+    width: 850px;
+    padding: 20px;
+    font-size: 20px;
+    word-spacing: 6px;
+    letter-spacing: 3px;
+}
+.images{
+    width: 1440px;
+    height: 900px;
+}
+.halfline{
+ text-align: center;
+ width: 900px;
+font-weight: bold;
+margin: 30px;
+padding: 0 0 0 400px;
+}
+.inlinesir{
+    background-color: white;
+    width: 600px;
+    
+    text-align: center;
+    font-size: 10px;
+    margin: 0 0 0 360px;
+
+     
+}
+.gr4{
+    float: right;
+}
+
+
+
+.ps {
+    width: 600px;
+    height: 238px;
+    margin: 30px 400px 30px 400px;
+    line-height: 35px;
+}
+#hspecial{
+    width: 600px;
+    height: 238px;
+    margin: 30px 400px 30px 400px;
+    line-height: 35px;
+
+}
+.gin img{
+    width: 857px;
+    height: 574px;
+    margin: 20px 293px 20px 293px;
+    
+}
+.gin p{
+    width: 281px;
+    height: 44px;
+    font-size: 12px;
+    margin: 0 379px 0px 579px;
+    text-align: center;
+}
+.para{
+    width: 600px;
+    height: 238px;
+    margin: 30px 400px 30px 400px;
+    line-height: 35px;   
+}
+.lists {
+    width: 600px;
+    height: 238px;
+    margin: 30px 400px 30px 400px;
+    line-height: 35px;
+    
+}
+.lists li{
+    list-style-type: disc;
+    margin-left: 20px;
+    line-height: 35px;
+
+
+}
+
+.abc ul li{
+    display: inline;
+    font-size: 40px;
+    margin: 0 0 0 20px;
+  
+    
+}
+
+.abc ul {
+    margin: 0 0 0 500px;
+}
+.halfline2{
+    text-align: center;
+    width: 900px;
+   font-weight: bold;
+   margin: 30px;
+   padding: 0 0 0 400px;
+   
+   }
+.imagepara {
+margin: 0 400px 0 400px;
+
+}
+#heightwidth{
+    height: 600px;
+    width: 900px;
+    margin: 20px 100px 20px 180px;
+
+}   
+#headerr{
+    
+    font-size: 45px;
+    margin: 40px 100px 20px 320px;
+}
+.a, .b, .c, .d, .e, .f{
+    margin: 20px 10px 20px 20px;
+}
+.tableimages p {
+ height: 30px;
+ width: 260px;
+ margin: 0 0 0 35px;
+ text-align: center;
+ text-decoration: underline;
+ font-weight: bold;
+}
+.box{
+    height: 300px;
+    width: 600px;
+    margin: 80px 400px 40px 380px;
+    border-style: solid;
+    border-width: 5px 1px 1px 1px;
+    
+}
+#boxid {
+    font-size: 40px;
+    margin: 40px 30px 20px 110px;
+}
+#paraid{
+    text-align: center;
+    margin: 20px 30px 20px 30px;
+
+}
+#both {
+    padding: 15px;
+    margin: 20px 20px 20px 100px;
+}
+#searchid{
+ height: 30px;
+ width: 330px;
+ 
+
+}
+#buttonid{
+    height: 30px;
+    width: 80px;
+    color: white;
+    background-color: black;
+    
+}
+
+#footer {
+    width: 100%;
+    height: 550px;
+    background-color: black;
+    color: white;
+}
+#h3id{
+    word-spacing: 4px;
+    letter-spacing: 1px;
+    font-size: 20px;
+}
+#h1id{
+    font-size: 60px;
+    margin: 110px 400px 20px 430px;
+    font-family: serif;
+    letter-spacing: 4px;
+    word-spacing: 2px;
+}
+#pid{
+    margin: 20px 250px 20px 250px;
+    text-align: center;
+
+}
+#ulid li a{ 
+    color: white;
+    display: inline;
+    text-decoration: underline;
+    margin: 20px;
+    
+
+}
+#ulid{
+    margin: 50px 470px 50px 540px;
+
+}
+#divoflinks li{
+    display: inline;
+}
+#pcopyreg{
+    margin: 100px 400px 10px 560px;
+}
+#h5id{
+    margin: 10px 400px 0 630px;
+}
